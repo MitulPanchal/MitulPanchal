@@ -7,6 +7,9 @@
 ### Learning Stack
 <p> Python | Django | Flask | HTML | CSS | Postgre SQL | SQLServer | MongoDB | Git </p> 
 
+### Current Position
+<p> Working in Data & Analytics team in TCS from September,2018.</p>
+
 ##### Motto
 
 > "When given the choice between being right and being kind, choose kind." - Dr. Wayne Dyer
