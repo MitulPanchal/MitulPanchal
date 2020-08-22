@@ -32,7 +32,7 @@
 <br>
 
 
-### Thanks for making this count better <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvQb1yOi6akcrwYaS-4kI4zvLSek-kMLdK5g&usqp=CAU">
+### Thanks for making this count better
 <img src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
 
 </details>
