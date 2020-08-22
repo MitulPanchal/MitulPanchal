@@ -21,5 +21,6 @@ Here are some ideas to get you started:
   </p>
 </details>
 <br>
+<p>
 <img align="left" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
-
+</p>
