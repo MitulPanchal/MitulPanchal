@@ -4,6 +4,9 @@
 ## Hey there, Mitul Panchal Here!!!
 ### Trying to be a good Computer Engineer with a little Programming skills
 
+### Learning Stack
+<p> Python | Django | Flask | HTML | CSS | PLSql | SQLServer | Git </p> 
+
 ##### Motto
 
 > "When given the choice between being right and being kind, choose kind." - Dr. Wayne Dyer
