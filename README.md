@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p>
+<img align="left" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
+</p>
+
 <details>
 <summary>Click for GitHub Stats</summary>
   <p align="center">
@@ -21,6 +27,4 @@ Here are some ideas to get you started:
   </p>
 </details>
 <br>
-<p>
-<img align="left" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
-</p>
+
