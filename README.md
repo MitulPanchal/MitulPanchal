@@ -11,7 +11,8 @@
 
 ##### Motto
 
-> "When given the choice between being right and being kind, choose kind." - Dr. Wayne Dyer
+> "When given the choice between being right and being kind, choose kind." 
+>                                                         - Dr. Wayne Dyer
 
 <details>
   <summary><b>Github insight</b></summary>
