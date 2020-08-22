@@ -15,6 +15,7 @@
 
 <details>
   <summary><b>Learning Stack</b></summary>
+  <br>
   <p> <b>Languages:</b> Python, C++, HTML, CSS </p>
   <p> <b>Database :</b> Postgre SQL, SQL Server, Mongo DB </p>
   <p> <b>Framework:</b> Django, Flask, Bootstrap </p>
