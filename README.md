@@ -15,14 +15,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&hide_border=true" />
   </p>
 <details>
+
+[![Twitter: MitulPanchal](https://img.shields.io/twitter/follow/MitulPanchal?style=social)](https://twitter.com/imitulpanchal)
+[![GitHub MitulPanchal](https://img.shields.io/github/followers/MitulPanchal?label=follow&style=social)](https://github.com/MitulPanchal)
 -->
 
 <details>
     <summary>Others stuff</summary>
 <br>    
-
-[![Twitter: MitulPanchal](https://img.shields.io/twitter/follow/MitulPanchal?style=social)](https://twitter.com/imitulpanchal)
-[![GitHub MitulPanchal](https://img.shields.io/github/followers/MitulPanchal?label=follow&style=social)](https://github.com/MitulPanchal)
 
 [![Linkedin: MitulPanchal](https://img.shields.io/badge/-Mitulpanchal-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imitulpanchal/)](https://www.linkedin.com/in/imitulpanchal/)
 
