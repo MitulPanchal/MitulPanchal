@@ -5,7 +5,7 @@
 ### Trying to be a good Computer Engineer with a little Programming skills
 
 ### Learning Stack
-<p> Languages: Python, C++ </p>
+<p> Languages: Python, C++, HTML, CSS </p>
 <p> Database: Postgre SQL, SQL Server, Mongo DB </p>
 <p> Framework: Django, Flask, Bootstrap </p>
 
