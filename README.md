@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>
 <img align="left" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
 </p>
-
+<br>
 <details>
 <summary>Click for GitHub Stats</summary>
   <p align="center">
