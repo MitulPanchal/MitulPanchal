@@ -27,5 +27,5 @@
 
 <br>
 <img align="left" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
-####Thanks for checking out my profile ;P
+#### Thanks for making this count better
 </details>
