@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="container"
-<div class="col-md-6">Mitul
-</div>
-<div class="col-md-3">Panchal
-</div>  
+<div class="container">
+  <div class="col-md-6">
+    Mitul
+  </div>
+  <div class="col-md-3">
+    Panchal
+  </div>  
 </div>
