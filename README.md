@@ -5,7 +5,7 @@
 ### Trying to be a good Computer Engineer with a little Programming skills
 
 ### Learning Stack
-<p> Python | Django | Flask | HTML | CSS | PLSql | SQLServer | Git </p> 
+<p> Python | Django | Flask | HTML | CSS | Postgre SQL | SQLServer | MongoDB | Git </p> 
 
 ##### Motto
 
