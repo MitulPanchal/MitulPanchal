@@ -10,8 +10,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-imitulpanchal@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imitulpanchal@gmail.com)](mailto:imitulpanchal@gmail.com)
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&hide_border=true&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&hide_border=true" />
 
   
 <!--
