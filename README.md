@@ -33,6 +33,7 @@
 
 <details>
   <summary>Feel free to connect with Me</summary>
+  <br>
   
 [![Linkedin Badge](https://img.shields.io/badge/-MitulPanchal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MitulPanchal/)](https://www.linkedin.com/in/imitulpanchal/)
 [![Instagram Badge](https://img.shields.io/badge/-MitulPanchal-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/MitulPanchal/)](https://www.instagram.com/imitulpanchal/)
