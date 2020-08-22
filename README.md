@@ -32,6 +32,7 @@
 <br>
 
 
-### Thanks for making this count better <img align="center" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
+### Thanks for making this count better 
+<img src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
 
 </details>
