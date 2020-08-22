@@ -23,9 +23,6 @@
 
 [![Twitter: MitulPanchal](https://img.shields.io/twitter/follow/MitulPanchal?style=social)](https://twitter.com/imitulpanchal)
 [![GitHub MitulPanchal](https://img.shields.io/github/followers/MitulPanchal?label=follow&style=social)](https://github.com/MitulPanchal)
-
-<br>
-
 [![Linkedin: MitulPanchal](https://img.shields.io/badge/-Mitulpanchal-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imitulpanchal/)](https://www.linkedin.com/in/imitulpanchal/)
 
 ### Thanks for making this count better
