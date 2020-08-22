@@ -4,6 +4,11 @@
 ## Hi, Mitul Panchal
 ### Trying to be a good Computer Engineer with a little Programming skills
 
+[![Linkedin Badge](https://img.shields.io/badge/-MitulPanchal-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imitulpanchal/)](https://www.linkedin.com/in/jayraj-roshan/)
+[![Instagram Badge](https://img.shields.io/badge/-MitulPanchal-e4405f?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/imitulpanchal/)](https://www.instagram.com/roshanjayraj/)
+[![Website Badge](https://img.shields.io/badge/-MitulPanchal.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=black&link=https://jayraj.co.in/)](https://mitulpanchal.github.io/Portfolio/)
+[![Gmail Badge](https://img.shields.io/badge/-imitulpanchal@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=black&link=mailto:imitulpanchal@gmail.com)](mailto:imitulpanchal@gmail.com)
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&hide_border=true&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&hide_border=true" />
