@@ -2,14 +2,7 @@
 
 ## Hi, Mitul Panchal
 
-[![Linkedin: MitulPanchal](https://img.shields.io/badge/-Mitulpanchal-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imitulpanchal/)](https://www.linkedin.com/in/imitulpanchal/)
-
-
-
 <br>
-
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&hide_border=true&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&hide_border=true" />
 
@@ -33,6 +26,7 @@
 
 <br>
 
+[![Linkedin: MitulPanchal](https://img.shields.io/badge/-Mitulpanchal-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imitulpanchal/)](https://www.linkedin.com/in/imitulpanchal/)
 
 ### Thanks for making this count better
 <img src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
