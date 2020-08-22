@@ -9,9 +9,6 @@
 <p> <b>Database :</b> Postgre SQL, SQL Server, Mongo DB </p>
 <p> <b>Framework:</b> Django, Flask, Bootstrap </p>
 
-### Current Position
-<p> Developer in Data & Analytics team at TCS</p>
-
 ##### Motto
 
 > "When given the choice between being right and being kind, choose kind." - Dr. Wayne Dyer
@@ -25,9 +22,7 @@
 </details>
 
 <details>
-  <summary>
-    <b>Feel free to connect with Me</b>
-  </summary>
+  <summary><b>Feel free to connect with Me</b></summary>
   <br>
   
 [![Linkedin Badge](https://img.shields.io/badge/-MitulPanchal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MitulPanchal/)](https://www.linkedin.com/in/imitulpanchal/)
