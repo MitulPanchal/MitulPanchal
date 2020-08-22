@@ -2,8 +2,10 @@
 <br>
 
 ## Hey there, Mitul Panchal Here!!!
-### Trying to be a good Computer Engineer with a little Programming skills
-### Currently working as Developer in Data & Analytics team
+### Trying to be a good Computer Engineer with a little Programming skills.
+
+### Status
+<p> Working as Developer in Data & Analytics team. </p>
 
 ### Learning Stack
 <p> <b>Languages:</b> Python, C++, HTML, CSS </p>
