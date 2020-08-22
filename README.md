@@ -22,25 +22,15 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&hide_border=true&layout=compact" />
-</p>
 
-<br>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=light&show_icons=true&hide_border=true" />
-</p>
-
-<!--
 <details>
 <summary>Click for GitHub Stats</summary>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&hide_border=true&layout=compact" />
   </p>
   <br>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&hide_border=true" />
   </p>
 </details>
--->
+
