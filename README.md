@@ -7,7 +7,7 @@
 
 
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&hide_border=true&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&" />
 
 <!--
 <details>
