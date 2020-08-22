@@ -27,7 +27,7 @@
 
 <details>
   <summary>
-    #### Feel free to connect with Me
+    <b>Feel free to connect with Me</b>
   </summary>
   <br>
   
