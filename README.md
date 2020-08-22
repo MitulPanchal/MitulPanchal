@@ -40,5 +40,5 @@
 
 </details>
 
-### Thanks for making this count better, cheers :beer 
+### Thanks for making this count better, cheers :beer: 
 <img src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
