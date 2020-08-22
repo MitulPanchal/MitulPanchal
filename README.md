@@ -8,7 +8,7 @@
 <p> Python | Django | Flask | HTML | CSS | Postgre SQL | SQLServer | MongoDB | Git </p> 
 
 ### Current Position
-<p> Working in Data & Analytics team in TCS from September,2018.</p>
+<p> Developer in Data & Analytics team at TCS</p>
 
 ##### Motto
 
