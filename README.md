@@ -1,6 +1,9 @@
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 [![Linkedin: MitulPanchal](https://img.shields.io/badge/-Mitulpanchal-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imitulpanchal/)](https://www.linkedin.com/in/imitulpanchal/)
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+
 <br>
 
 
