@@ -4,6 +4,10 @@
 ## Hi, Mitul Panchal
 ### Trying to be a good Computer Engineer with a little Programming skills
 
+##### MOTTO
+
+> When given the choice between being right and being kind, choose kind. - Dr. Wayne Dyer
+
 <details>
   <summary><b>Github insight</b></summary>
   <br>
