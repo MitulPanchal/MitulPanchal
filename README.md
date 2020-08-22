@@ -34,7 +34,7 @@
 [![Website Badge](https://img.shields.io/badge/-MitulPanchal.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://mitulpanchal.github.io/Portfolio/)](https://mitulpanchal.github.io/Portfolio/)
 [![Gmail Badge](https://img.shields.io/badge/-imitulpanchal@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imitulpanchal@gmail.com)](mailto:imitulpanchal@gmail.com)
 
-<details>
+</details>
 <br>
 
 ### Thanks for making this count better 
