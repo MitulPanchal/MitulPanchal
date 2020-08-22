@@ -26,7 +26,9 @@
 -->
 
 <details>
-  <summary>Feel free to connect with Me</summary>
+  <summary>
+    #### Feel free to connect with Me
+  </summary>
   <br>
   
 [![Linkedin Badge](https://img.shields.io/badge/-MitulPanchal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MitulPanchal/)](https://www.linkedin.com/in/imitulpanchal/)
