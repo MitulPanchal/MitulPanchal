@@ -31,7 +31,6 @@
 
 <br>
 <img align="left" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
-
-## Thanks for making this count better
+### Thanks for making this count better
 
 </details>
