@@ -1,4 +1,4 @@
-https://media1.giphy.com/media/cIIlbjoKoXCo6K2jrp/200.gif
+<img src="https://media1.giphy.com/media/cIIlbjoKoXCo6K2jrp/200.gif">
 
 <!--
 **MitulPanchal/MitulPanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
