@@ -5,9 +5,9 @@
 ### Trying to be a good Computer Engineer with a little Programming skills
 
 ### Learning Stack
-<p> Languages: Python, C++, HTML, CSS </p>
-<p> Database: Postgre SQL, SQL Server, Mongo DB </p>
-<p> Framework: Django, Flask, Bootstrap </p>
+<p> <b>Languages:</b> Python, C++, HTML, CSS </p>
+<p> <b>Database :</b> Postgre SQL, SQL Server, Mongo DB </p>
+<p> <b>Framework:</b> Django, Flask, Bootstrap </p>
 
 ### Current Position
 <p> Developer in Data & Analytics team at TCS</p>
