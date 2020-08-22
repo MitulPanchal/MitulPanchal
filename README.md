@@ -30,8 +30,8 @@
 [![GitHub MitulPanchal](https://img.shields.io/github/followers/MitulPanchal?label=follow&style=social)](https://github.com/MitulPanchal)
 
 <br>
-<img align="left" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
 
-### Thanks for making this count better
+
+### Thanks for making this count better - <img align="left" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
 
 </details>
