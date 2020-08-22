@@ -25,12 +25,6 @@
 [![Linkedin: MitulPanchal](https://img.shields.io/badge/-Mitulpanchal-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imitulpanchal/)](https://www.linkedin.com/in/imitulpanchal/)
 -->
 
-
-<br>
-
-### Thanks for making this count better 
-<img src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
-
 <details>
   <summary>Feel free to connect with Me</summary>
   <br>
@@ -40,3 +34,7 @@
 [![Website Badge](https://img.shields.io/badge/-MitulPanchal.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://mitulpanchal.github.io/Portfolio/)](https://mitulpanchal.github.io/Portfolio/)
 [![Gmail Badge](https://img.shields.io/badge/-imitulpanchal@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imitulpanchal@gmail.com)](mailto:imitulpanchal@gmail.com)
 
+<br>
+
+### Thanks for making this count better 
+<img src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
