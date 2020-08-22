@@ -1,6 +1,6 @@
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: MitulPanchal](https://img.shields.io/twitter/follow/MitulPanchal?style=social)](https://twitter.com/imitulpanchal)
+[![Linkedin: MitulPanchal](https://img.shields.io/badge/-Mitulpanchal-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imitulpanchal/)](https://www.linkedin.com/in/imitulpanchal/)
+[![GitHub MitulPanchal](https://img.shields.io/github/followers/MitulPanchal?label=follow&style=social)](https://github.com/MitulPanchal)
 
 <p>
 <img align="left" src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
