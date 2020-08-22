@@ -1,10 +1,3 @@
-<div class="container">
-  <div class="col-md-6">
-    <img src="https://media1.giphy.com/media/cIIlbjoKoXCo6K2jrp/200.gif">
-  </div>
-  <div class="col-md-3">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&hide_border=true" />
-  </div>
 <!--
 **MitulPanchal/MitulPanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
@@ -19,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://media1.giphy.com/media/cIIlbjoKoXCo6K2jrp/200.gif">
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&hide_border=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&hide_border=true" />
 
