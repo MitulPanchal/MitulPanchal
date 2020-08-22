@@ -19,6 +19,8 @@
 -->
 
 <details>
+    <summary>Others stuff</summary>
+<br>    
 
 [![Twitter: MitulPanchal](https://img.shields.io/twitter/follow/MitulPanchal?style=social)](https://twitter.com/imitulpanchal)
 [![GitHub MitulPanchal](https://img.shields.io/github/followers/MitulPanchal?label=follow&style=social)](https://github.com/MitulPanchal)
