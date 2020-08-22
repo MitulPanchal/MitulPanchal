@@ -9,7 +9,7 @@
 <p> <b>Database :</b> Postgre SQL, SQL Server, Mongo DB </p>
 <p> <b>Framework:</b> Django, Flask, Bootstrap </p>
 
-#### Precept
+### Precept
 
 > "When given the choice between being right and being kind, choose kind." - Dr. Wayne Dyer
 
