@@ -11,8 +11,14 @@
 
 ##### Motto
 
-> "When given the choice between being right and being kind, choose kind." 
->                                                         - Dr. Wayne Dyer
+> "When given the choice between being right and being kind, choose kind." - Dr. Wayne Dyer
+
+<details>
+  <summary><b>Learning Stack</b></summary>
+  <p> <b>Languages:</b> Python, C++, HTML, CSS </p>
+  <p> <b>Database :</b> Postgre SQL, SQL Server, Mongo DB </p>
+  <p> <b>Framework:</b> Django, Flask, Bootstrap </p>
+</details>  
 
 <details>
   <summary><b>Github insight</b></summary>
