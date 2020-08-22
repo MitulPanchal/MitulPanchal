@@ -35,7 +35,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-imitulpanchal@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imitulpanchal@gmail.com)](mailto:imitulpanchal@gmail.com)
 
 </details>
-<br>
 
 ### Thanks for making this count better 
 <img src="https://komarev.com/ghpvc/?username=mitulpanchal" alt="mitulpanchal" />
