@@ -6,17 +6,21 @@
 ## Hey there, Mitul Panchal Here!!! :wave:
 ### "Trying to be a good IT guy with a little Programming skills"
 
+<!--
 ### Status:
 <p> Working as Developer in Data & Analytics team. </p>
+-->
 
 ### Learning Stack:
 <p> <b>Languages:</b> Python, C++, HTML, CSS </p>
 <p> <b>Database :</b> Postgre SQL, SQL Server, Mongo DB </p>
 <p> <b>Framework:</b> Django, Flask, Bootstrap </p>
 
+<!--
 ### Precept:
 
 > "When given the choice between being right and being kind, choose kind." - Dr. Wayne Dyer
+-->
 
 <!--
 <details>
