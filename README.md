@@ -11,6 +11,14 @@
 <p> Working as Developer in Data & Analytics team. </p>
 -->
 
+<details>
+  <summary><b>Github insight</b></summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&layout=compact" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&" />
+</details>
+
 ### Learning Stack:
 <p> <b>Languages:</b> Python, C++, HTML, CSS </p>
 <p> <b>Database :</b> Postgre SQL, SQL Server, Mongo DB </p>
@@ -21,24 +29,6 @@
 
 > "When given the choice between being right and being kind, choose kind." - Dr. Wayne Dyer
 -->
-
-<!--
-<details>
-  <summary><b>Learning Stack</b></summary>
-  <br>
-  <p> <b>Languages:</b> Python, C++, HTML, CSS </p>
-  <p> <b>Database :</b> Postgre SQL, SQL Server, Mongo DB </p>
-  <p> <b>Framework:</b> Django, Flask, Bootstrap </p>
-</details>  
--->
-
-<details>
-  <summary><b>Github insight</b></summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=light&layout=compact" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&" />
-</details>
 
 <details>
   <summary><b>Feel free to connect with Me</b></summary>
