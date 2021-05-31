@@ -4,7 +4,7 @@
 -->
 
 ## Hey there, Mitul Panchal Here!!! :wave:
-### "Trying to be a good IT guy with a little Programming skills"
+### Trying to be a good IT guy with a little Programming skills
 
 <!--
 ### Status:
@@ -17,7 +17,7 @@
 <p> <b>Framework:</b> Django, Flask, Bootstrap </p>
 
 <!--
-### Precept:
+### Motto:
 
 > "When given the choice between being right and being kind, choose kind." - Dr. Wayne Dyer
 -->
