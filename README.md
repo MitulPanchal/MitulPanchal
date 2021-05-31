@@ -1,5 +1,7 @@
+<!--
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 <br>
+-->
 
 ## Hey there, Mitul Panchal Here!!!
 ### Trying to be a good Computer Engineer with a little Programming skills.
