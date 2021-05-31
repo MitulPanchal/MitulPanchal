@@ -3,7 +3,7 @@
 <br>
 -->
 
-## Hey there, Mitul Panchal Here!!!
+## Hey there, Mitul Panchal Here!!! :wave:
 ### Trying to be a good Computer Engineer with a little Programming skills.
 
 ### Status:
