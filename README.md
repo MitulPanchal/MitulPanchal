@@ -14,9 +14,9 @@
 <details>
   <summary><b>Github insight</b></summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=black&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=dark&layout=compact" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=black&show_icons=true&" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=dark&show_icons=true&" />
 </details>
 
 ### Learning Stack:
