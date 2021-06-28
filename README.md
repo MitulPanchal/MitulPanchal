@@ -4,7 +4,7 @@
 -->
 
 ## Hey there, Mitul Panchal Here!!! :wave:
-### Trying to be a good IT guy with a little Programming skills
+### Trying to be a decent IT Professional with a little Programming skills
 
 <!--
 ### Status:
