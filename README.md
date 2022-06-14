@@ -20,9 +20,10 @@
 </details>
 
 ### Learning Stack:
-<p> <b>Languages:</b> Python, C++, HTML, CSS </p>
-<p> <b>Database :</b> Postgre SQL, SQL Server, Mongo DB </p>
+<p> <b>Languages:</b> Python, C#, HTML, CSS </p>
+<p> <b>Database :</b> Postgre SQL, SQL Server</p>
 <p> <b>Framework:</b> Django, Flask, Bootstrap </p>
+<p> <b>Other:</b> Git, Jenkins, Agile Framework, ASP.NET, Rest API </p> 
 
 <!--
 ### Motto:
