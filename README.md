@@ -4,11 +4,11 @@
 -->
 
 ## Hey there, Mitul Panchal Here!!! :wave:
-### Trying to be a decent IT Professional with a little Programming skills
+### Trying to be a decent Software Enginner with a little Programming skills
 
 <!--
 ### Status:
-<p> Working as Developer in Data & Analytics team. </p>
+<p> Working as Lead Data Engineer in Data Science & Analytics team in ICICI Lombard GIC Ltd. </p>
 -->
 
 <details>
@@ -20,10 +20,11 @@
 </details>
 
 ### Learning Stack:
-<p> <b>Languages:</b> Python, C#, HTML, CSS </p>
-<p> <b>Database :</b> Postgre SQL, SQL Server</p>
-<p> <b>Framework:</b> Django, Flask, Bootstrap </p>
-<p> <b>Other:</b> Git, Jenkins, Agile Framework, ASP.NET, Rest API </p> 
+<p> <b>Languages:</b> PySpark, Python, SQL, C# </p>
+<p> <b>Database :</b> Postgre SQL, SQL Server, Cosmos DB</p>
+<p> <b>Cloud Services:</b> Azure Databricks, Azure Synapse Workspace, Azure Function App, ADF </p>
+<p> <b>Framework:</b> Kafka, Django, Flask, Bootstrap </p>
+<p> <b>Other:</b> Git, Jenkins, Agile Framework, DataLake, ASP.NET, Rest API </p> 
 
 <!--
 ### Motto:
