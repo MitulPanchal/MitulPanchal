@@ -6,23 +6,23 @@
 ## Hey there, Mitul Panchal Here!!! :wave:
 ### Trying to be a decent Software Enginner with a little Programming skills
 
-<!--
+
 ### Status:
 <p> Working as Lead Data Engineer in Data Science & Analytics team in ICICI Lombard GIC Ltd. </p>
--->
 
-<details>
+
+<!-- <details>
   <summary><b>Github insight</b></summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulPanchal&theme=dark&layout=compact" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/?username=MitulPanchal&theme=dark&show_icons=true&" />
-</details>
+</details> -->
 
 ### Learning Stack:
 <p> <b>Languages:</b> PySpark, Python, SQL, C# </p>
-<p> <b>Database :</b> Postgre SQL, SQL Server, Cosmos DB</p>
-<p> <b>Cloud Services:</b> Azure Databricks, Azure Synapse Workspace, Azure Function App, ADF </p>
+<p> <b>Database :</b> Postgre, SQL Server, Cosmos DB</p>
+<p> <b>Cloud Services:</b> Azure Databricks, Azure Synapse Workspace, Azure Function App, Azure DataFactory </p>
 <p> <b>Framework:</b> Kafka, Django, Flask, Bootstrap </p>
 <p> <b>Other:</b> Git, Jenkins, Agile Framework, DataLake, ASP.NET, Rest API </p> 
 
